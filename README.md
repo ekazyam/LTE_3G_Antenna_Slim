@@ -15,8 +15,8 @@
 
 ## 2. 付属品
 * LTE/3G Antenna Shield x 1
-* スタッキングコネクタ
-* U.UFケーブル 10cm x 2
+* スタッキングコネクタ x 1
+* U.FLケーブル 10cm x 2
 * Shield 固定ビス x 4
 * Shield 固定スペーサー x 4
 
